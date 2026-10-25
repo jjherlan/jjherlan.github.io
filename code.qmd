@@ -31,16 +31,6 @@ An interactive look at wind records from the EcoAirML sensor station at a Jamaic
 | Deep-sea coral and sponge SDMs (NERTO 2025) | NOAA Deep Sea Coral and Sponge work, Northeast Canyons, James J. Howard Laboratory | [GitHub](https://github.com/jjherlan/dscs_nerto2025) |
 | Spatial ecology of Rapa Nui reefs | Benthic habitat and spatial ecology analyses | [Site](https://jjherlan.github.io/spatial_ecology_coral_reefs/) · [GitHub](https://github.com/jjherlan/spatial_ecology_coral_reefs) |
 | Coral bleaching at Rapa Nui | Analyses of the 2015 bleaching event | [Site](https://jjherlan.github.io/rpn_coral_bleach/) · [GitHub](https://github.com/jjherlan/rpn_coral_bleach) |
-| MS research, Rapa Nui | Data and analysis from my master's research | [Site](https://jjherlan.github.io/cuny_ms_rapa_nui/) · [GitHub](https://github.com/jjherlan/cuny_ms_rapa_nui) |
-| Coral and waves, American Samoa | Coral morphology and wave dynamics | [Site](https://jjherlan.github.io/coral_wave/) · [GitHub](https://github.com/jjherlan/coral_wave) |
-
-## Teaching materials
-
-- *SC 253 Ecology and Environmental Problems* (SUNY FIT): [course site](https://jjherlan.github.io/suny_fit_sc_253/)
-
-## Tools I contribute to
-
-**CoralNet-Toolbox**: human-in-the-loop annotation and model development for benthic imagery, including YOLO-based object detection and Meta's Segment Anything Model (SAM). [GitHub](https://github.com/Jordan-Pierce/CoralNet-Toolbox)
 
 ## Methods I work with
 

@@ -1,0 +1,5 @@
+---
+title: "Page not found"
+---
+
+That page isn't here. Try the [home page](/) or the menu above.

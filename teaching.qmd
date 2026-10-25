@@ -1,0 +1,49 @@
+---
+title: "Teaching & Outreach"
+description: "Courses taught at CUNY and SUNY, mentoring, workshops and public engagement."
+---
+
+::: lead-text
+I've taught ecology, biostatistics, animal behavior and Earth science at four CUNY and SUNY campuses, and my Brooklyn College course brings Hudson River field research into the classroom.
+:::
+
+## Courses
+
+::: two-col
+::: {}
+**Brooklyn College, CUNY** · Lecturer, Spring 2026\
+BIOL 9000 *Waves and Water Quality: Researching the Water Quality of the Hudson River* (lecture and lab). A course-based research experience I designed through the Research in the Classroom (RIC) Fellows Program, with support from the Hudson River Park Trust.
+
+**Baruch College, CUNY** · Adjunct Lecturer, 2023–2026\
+ENV 1003/1004 *Fundamentals of Ecology* (lab and recitation)
+
+**Fashion Institute of Technology, SUNY** · Adjunct Lecturer, 2023–2024\
+SC 211 *Earth Science*; SC 253 *Ecology and Environmental Problems*
+:::
+::: {}
+**College of Staten Island, CUNY** · Adjunct Lecturer, 2021–2023\
+BIO 272 *Biostatistics*; BIO 338 *Animal Behavior*; BIO 239 *Ecology*
+
+**Earlier teaching**\
+Tutor, Ivy Tutors Network, for the Oberlin College course *Coral Reefs: Biology, Geology, and Politics* (2018); substitute teacher, grades 6–12, Gifft Hill School, St. John, USVI (2017)
+:::
+:::
+
+## Mentoring
+
+- Mentor, Data Science and Engineering master's program capstone project, City College of New York (2023)
+
+## Workshops and public engagement
+
+<ul class="news">
+<li><span class="when">2026</span><span>Workshop, <em>From Photos to Spatial Pattern: Large-Area Imaging for Coral Reef Conservation</em>, SCCS-NY, American Museum of Natural History</span></li>
+<li><span class="when">2026</span><span>Talk, New York Species Distribution Modeling Discussion Group (NY-SDM), American Museum of Natural History</span></li>
+<li><span class="when">2026</span><span>Talk, Estuarine Sanctuary Management Plan Sanctuary Science Meeting, Hudson River Park Trust</span></li>
+<li><span class="when">2024</span><span>Lab research stall, Release of the Fishes, Pier 40, Hudson River Park</span></li>
+<li><span class="when">2024</span><span>Ask-a-Scientist speaker, Pier 57, Hudson River Park</span></li>
+</ul>
+
+## Service
+
+- Peer reviewer, *Coral Reefs*
+- Member, International Coral Reef Society; Ecological Society of America; Association for the Sciences of Limnology and Oceanography; Society for Industrial and Applied Mathematics

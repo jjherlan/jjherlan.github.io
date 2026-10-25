@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+description: "CV of James J. Herlan, PhD candidate in marine ecology."
+---
+
+[Download CV (PDF)](files/Herlan_CV.pdf){.btn-tide}
+
+```{=html}
+<object class="cv-frame" data="files/Herlan_CV.pdf#view=FitH" type="application/pdf" aria-label="CV of James J. Herlan">
+  <p>Your browser can't display the PDF here. <a href="files/Herlan_CV.pdf">Download the CV</a> instead.</p>
+</object>
+```

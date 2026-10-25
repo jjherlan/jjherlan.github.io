@@ -1,0 +1,47 @@
+---
+title: "Media"
+description: "Underwater video and photographs from Rapa Nui and the U.S. Virgin Islands."
+---
+
+## Video
+
+```{=html}
+<div class="video-grid">
+  <div>
+    <iframe src="https://www.youtube-nocookie.com/embed/rb0NXtxAR24" title="Coral Reefs of Rapa Nui" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p><strong>Coral Reefs of Rapa Nui</strong></p>
+  </div>
+  <div>
+    <iframe src="https://www.youtube-nocookie.com/embed/ZGtkQhB8Y4I" title="Snorkeling a tide pool at Motu Motiro Hiva, September 2015" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p><strong>Snorkeling a tide pool at Motu Motiro Hiva</strong> · September 2015</p>
+  </div>
+  <div>
+    <iframe src="https://www.youtube-nocookie.com/embed/FroVweNDF3s" title="Reef video, Rapa Nui (RPN Man Dp 0425)" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p><strong>RPN Man Dp 0425</strong></p>
+  </div>
+</div>
+```
+
+More on my [YouTube channel](https://www.youtube.com/@jamesherlan2388).
+
+## Photographs
+
+::: gallery
+![Ahu and moai at dusk, Rapa Nui](images/rapanui-moai.jpg){fig-alt="Silhouettes of moai statues against a cloudy sunset sky." group="media"}
+
+![Reef survey. Photo: Sly Lee](images/reef-diver.jpg){fig-alt="A diver above a shallow reef with a large coral colony in front." group="media"}
+
+![*Pocillopora* colonies](images/pocillopora-reef.jpg){fig-alt="A dense field of branching Pocillopora corals." group="media"}
+
+![Reef slope](images/reef-slope.jpg){fig-alt="Massive and branching corals on a reef slope in blue water." group="media"}
+
+![Fish school over the seafloor](images/fish-school.jpg){fig-alt="A school of small fish over a sandy seafloor in green water." group="media"}
+
+![Mangrove-lined bay](images/mangrove-bay.jpg){fig-alt="Turquoise water in front of a hillside covered in green forest." group="media"}
+
+![Mangrove prop roots](images/mangrove-roots.jpg){fig-alt="Arching red mangrove prop roots over calm water." group="media"}
+
+![Above and below the surface](images/split-shot.jpg){fig-alt="A split-level photo with shoreline vegetation above the waterline and blue water below." group="media"}
+
+![Hurricane Hole, St. John](images/hurricane-hole.jpg){fig-alt="A mangrove shoreline seen from water level in a turquoise bay." group="media"}
+:::

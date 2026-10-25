@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap');
+
+$ink:    #10242f;
+$tide:   #0d6b6e;
+$sand:   #f7f4ee;
+$shell:  #ece6da;
+$muted:  #5b6b72;
+
+$body-bg: $sand;
+$body-color: $ink;
+$link-color: $tide;
+$primary: $tide;
+$secondary: $muted;
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Fraunces", Georgia, serif;
+$headings-font-weight: 600;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+$navbar-bg: $sand;
+$navbar-fg: $ink;
+$navbar-hl: $tide;
+$footer-bg: $shell;
+$footer-fg: $muted;
+
+/*-- scss:rules --*/
+:root {
+  --ink: #{$ink};
+  --tide: #{$tide};
+  --sand: #{$sand};
+  --shell: #{$shell};
+  --muted: #{$muted};
+  --card: #ffffff;
+  --rule: rgba(16, 36, 47, 0.12);
+}

@@ -1,0 +1,128 @@
+---
+title: "Publications"
+description: "Peer-reviewed articles, manuscripts, book chapters and selected presentations."
+---
+
+::: lead-text
+Full citation details are also in my [CV](files/Herlan_CV.pdf). <!-- Add your Google Scholar link here once it is set up: [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) -->
+:::
+
+## Peer-reviewed articles
+
+```{=html}
+<ul class="pubs">
+<li><span class="yr">2026</span>
+  <strong>Herlan JJ</strong>, McTague SA, Staniczenko PPA, Loh JM, Santos R, James WR, Gleason ACR, Edwards CB, Gosnell JS, McDonald KC, Friedlander AM, Gaymer CF.
+  <span class="ttl">Spatial ecology of coral reefs at Rapa Nui (Easter Island): biotic mechanisms and environmental drivers of coral composition and dispersion along a wave exposure gradient.</span>
+  <span class="meta"><em>Marine Ecology Progress Series</em>. Published online 25 Aug 2026.</span>
+  <a class="doi" href="https://doi.org/10.3354/meps15300">doi:10.3354/meps15300</a></li>
+
+<li><span class="yr">2025</span>
+  Vörösmarty CJ, Trujillo M, Casaccia P, … <strong>Herlan J</strong>, … Zarnoch C (30 authors).
+  <span class="ttl">A Climate BioStress Sentinel System: identifying climate impacts from the genome to the urbanized biosphere.</span>
+  <span class="meta"><em>Cell Reports Sustainability</em> 2: 100558. Perspective. I wrote the coral reef sections and supplementary material.</span>
+  <a class="doi" href="https://doi.org/10.1016/j.crsus.2025.100558">doi:10.1016/j.crsus.2025.100558</a></li>
+
+<li><span class="yr">2022</span>
+  Morales NA, Coghlan AR, Easton EE, Friedlander AM, <strong>Herlan J</strong>, Gaymer CF.
+  <span class="ttl">Now you see me: “first” records of the greater amberjack <em>Seriola dumerili</em> at Rapa Nui, range extension or increased scientific effort?</span>
+  <span class="meta"><em>Journal of Fish Biology</em> 100(3): 835–842.</span>
+  <a class="doi" href="https://doi.org/10.1111/jfb.14983">doi:10.1111/jfb.14983</a></li>
+
+<li><span class="yr">2018</span>
+  Easton EE, Gaymer CF, Friedlander AM, <strong>Herlan JJ</strong>.
+  <span class="ttl">Effects of herbivores, wave exposure and depth on benthic coral communities of the Easter Island ecoregion.</span>
+  <span class="meta"><em>Marine and Freshwater Research</em> 69(6): 997–1006.</span>
+  <a class="doi" href="https://doi.org/10.1071/MF17064">doi:10.1071/MF17064</a></li>
+
+<li><span class="yr">2014</span>
+  Yates KK, Rogers CS, <strong>Herlan JJ</strong>, Brooks GR, Smiley NA, Larson RA.
+  <span class="ttl">Diverse coral communities in mangrove habitats suggest a novel refuge from climate change.</span>
+  <span class="meta"><em>Biogeosciences</em> 11(16): 4321–4337.</span>
+  <a class="doi" href="https://doi.org/10.5194/bg-11-4321-2014">doi:10.5194/bg-11-4321-2014</a></li>
+
+<li><span class="yr">2014</span>
+  Cooper WT, Lirman D, Porter VanGroningen M, Parkinson JE, <strong>Herlan J</strong>, McManus JW.
+  <span class="ttl">Assessing techniques to enhance early post-settlement survival of corals in situ for reef restoration.</span>
+  <span class="meta"><em>Bulletin of Marine Science</em> 90(2): 651–664.</span>
+  <a class="doi" href="https://doi.org/10.5343/bms.2013.1020">doi:10.5343/bms.2013.1020</a></li>
+
+<li><span class="yr">2010</span>
+  Lirman D, Thyberg T, <strong>Herlan J</strong>, Hill C, Young-Lahiff C, Schopmeyer S, Huntington B, Santos R, Drury C.
+  <span class="ttl">Propagation of the threatened staghorn coral <em>Acropora cervicornis</em>: methods to minimize the impacts of fragment collection and maximize production.</span>
+  <span class="meta"><em>Coral Reefs</em> 29(3): 729–735.</span>
+  <a class="doi" href="https://doi.org/10.1007/s00338-010-0621-6">doi:10.1007/s00338-010-0621-6</a></li>
+
+<li><span class="yr">2008</span>
+  Lirman D, Deangelo G, Serafy J, Hazra A, Smith Hazra D, <strong>Herlan J</strong>, Luo J, Bellmund S, Wang J, Clausing R.
+  <span class="ttl">Seasonal changes in the abundance and distribution of submerged aquatic vegetation in a highly managed coastal lagoon.</span>
+  <span class="meta"><em>Hydrobiologia</em> 596: 105–120.</span>
+  <a class="doi" href="https://doi.org/10.1007/s10750-007-9061-x">doi:10.1007/s10750-007-9061-x</a></li>
+</ul>
+```
+
+## In revision
+
+```{=html}
+<ul class="pubs">
+<li>
+  <strong>Herlan J</strong>, Staniczenko PPA, Smith TB, McDonald K, Gosnell JS, Manne L, Friedlander AM, Gaymer CF.
+  <span class="ttl">First quantitative assessment of coral bleaching at Rapa Nui (Easter Island) during the 2014–2017 global thermal event reveals predominantly mild stress responses.</span>
+  <span class="meta"><em>Marine Biology</em>.</span><span class="status">Minor revision · resubmitted Aug 2026</span></li>
+</ul>
+```
+
+## In preparation
+
+```{=html}
+<ul class="pubs">
+<li><strong>Herlan J</strong>, Raval M, Loh JM. <span class="ttl">Dead <em>Pocillopora</em> skeletons shift from segregated to spatially mixed patches with live colonies along a wave-exposure gradient at Rapa Nui.</span></li>
+<li><strong>Herlan J</strong>, Poti M, Winship A, Vasslides J. <span class="ttl">Mapping habitat for <em>Desmophyllum dianthus</em> on the Northwest Atlantic continental margin: a parsimonious species distribution model for marine spatial planning.</span></li>
+<li><strong>Herlan J</strong>, Staniczenko PPA, Smith TB, Brandtneris V, McDonald K, Gosnell JS, Edwards CB, Friedlander AM, Gaymer C. <span class="ttl">Wave exposure drives benthic habitat assembly and <em>Porites lobata</em> morphological plasticity at Rapa Nui.</span></li>
+<li><strong>Herlan J</strong>, Rogers C. <span class="ttl">Effects of seawater temperature and storms on disease and survival of the threatened elkhorn coral <em>Acropora palmata</em> at three reef sites in St. John, US Virgin Islands (2010–2012).</span></li>
+<li><strong>Herlan J</strong>, Rogers C. <span class="ttl">Spatially explicit drivers of coral bleaching and recovery in a coexisting mangrove–coral habitat during the 2010 seawater thermal event at Otter Creek, Hurricane Hole, USVI.</span></li>
+</ul>
+```
+
+## Book chapters and reports
+
+```{=html}
+<ul class="pubs">
+<li><span class="yr">2016</span>
+  Alvarado JJ, Aburto-Oropeza O, Abad R, Barraza E, Brandt M, Cantera J, Estrada P, Gaymer CF, Guzmán-Mora AG, <strong>Herlan JJ</strong>, Maté JL.
+  <span class="ttl">Coral reef conservation in the Eastern Tropical Pacific.</span>
+  <span class="meta">In: Glynn P, Manzello D, Enochs I (eds) <em>Coral Reefs of the Eastern Tropical Pacific: Persistence and Loss in a Dynamic Environment</em>, pp. 565–591. Springer.</span>
+  <a class="doi" href="https://doi.org/10.1007/978-94-017-7499-4_21">doi:10.1007/978-94-017-7499-4_21</a></li>
+
+<li><span class="yr">2008</span>
+  Bouchon C, Portillo P, Bouchon-Navaro Y, … <strong>Herlan J</strong>, … Isaac SC.
+  <span class="ttl">Status of coral reef resources of the Lesser Antilles.</span>
+  <span class="meta">In: Wilkinson C (ed) <em>Status of Coral Reefs of the World: 2008</em>, pp. 265–280. Australian Institute of Marine Science.</span></li>
+</ul>
+```
+
+## Conference proceedings
+
+```{=html}
+<ul class="pubs">
+<li><span class="yr">2012</span> Rogers C, <strong>Herlan J</strong>. <span class="ttl">Life on the edge: corals in mangroves and climate change.</span> <span class="meta">Proceedings of the 12th International Coral Reef Symposium, Cairns, Australia.</span></li>
+<li><span class="yr">2008</span> <strong>Herlan J</strong>, Lirman D. <span class="ttl">The development of a coral reef nursery program for the threatened coral <em>Acropora cervicornis</em> in Florida.</span> <span class="meta">Proceedings of the 11th International Coral Reef Symposium, Ft. Lauderdale, FL.</span></li>
+<li><span class="yr">2008</span> Lirman D, <strong>Herlan J</strong>, Capo T. <span class="ttl">Exposure to nutrients mitigates the negative impacts of sedimentation on coral growth in the Caribbean corals <em>Porites astreoides</em> and <em>Siderastrea siderea</em>.</span> <span class="meta">Proceedings of the 11th International Coral Reef Symposium.</span></li>
+<li><span class="yr">2008</span> Cooper W, Lirman D, Porter M, <strong>Herlan J</strong>, Parkinson J. <span class="ttl">Assessing the efficacy of in situ coral larval seeding under high rates of early post-settlement mortality.</span> <span class="meta">Proceedings of the 11th International Coral Reef Symposium.</span></li>
+</ul>
+```
+
+## Selected presentations
+
+```{=html}
+<ul class="pubs">
+<li><span class="yr">2026</span> <span class="ttl">Spatial ecology of coral reefs at Rapa Nui: biotic mechanisms and environmental drivers of coral composition and dispersion along a wave exposure gradient.</span> <span class="meta">AGU Annual Meeting, San Francisco. Poster.</span></li>
+<li><span class="yr">2026</span> <span class="ttl">Mapping habitat for <em>Desmophyllum dianthus</em> on the Northwest Atlantic continental margin.</span> <span class="meta">12th Biennial Education and Science Forum, City College of New York. Poster, 2nd Place Best Poster.</span></li>
+<li><span class="yr">2026</span> <span class="ttl">Spatial signatures across a wave-exposure gradient: a transferable analytical framework for <em>Astrangia poculata</em>.</span> <span class="meta">Temperate Coral Research Conference, Southern Connecticut State University. Talk.</span></li>
+<li><span class="yr">2026</span> <span class="ttl">Dispersion and neighborhood co-occurrence of <em>Pocillopora</em> corals at Rapa Nui.</span> <span class="meta">Student Conference on Conservation Science, American Museum of Natural History. Poster.</span></li>
+<li><span class="yr">2024</span> <span class="ttl">Impact of wave exposure on the abundance and dispersion of marine benthic organisms at Rapa Nui.</span> <span class="meta">AGU Annual Meeting, Washington, DC. Talk.</span></li>
+<li><span class="yr">2024</span> <span class="ttl">Impact of wave exposure on coral dispersion at Rapa Nui.</span> <span class="meta">ESA Annual Meeting, Long Beach, CA. Talk.</span></li>
+</ul>
+```
+
+The full list of presentations is in my [CV](files/Herlan_CV.pdf).

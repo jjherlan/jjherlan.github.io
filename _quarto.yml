@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - files/
+    - images/
+
+website:
+  title: "James J. Herlan"
+  description: "Marine ecologist working on how waves, flow and habitat structure shape coral reefs, deep-sea habitats and urban coastal wetlands."
+  site-url: "https://jjherlan.github.io"   # change to your custom domain once it is set up
+  favicon: images/favicon.svg
+  open-graph:
+    image: images/reef-diver.jpg
+  twitter-card: true
+  page-navigation: false
+  back-to-top-navigation: true
+  navbar:
+    title: "James J. Herlan"
+    left: []
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching & Outreach
+        href: teaching.qmd
+      - text: Code & Data
+        href: code.qmd
+      - text: Media
+        href: media.qmd
+      - text: CV
+        href: cv.qmd
+  page-footer:
+    left: "© 2026 James J. Herlan · Last updated October 2026"
+    right:
+      - icon: envelope
+        href: "mailto:jherlan@gradcenter.cuny.edu"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/jjherlan"
+        aria-label: GitHub
+      - icon: youtube
+        href: "https://www.youtube.com/@jamesherlan2388"
+        aria-label: YouTube
+      # Add these once you have the URLs (remove the leading # on each line):
+      # - icon: mortarboard-fill
+      #   href: "https://scholar.google.com/citations?user=YOUR_ID"
+      #   aria-label: Google Scholar
+      # - icon: person-badge
+      #   href: "https://orcid.org/0000-0000-0000-0000"
+      #   aria-label: ORCID
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/light.scss]
+      dark: [cosmo, styles/dark.scss]
+    respect-user-color-scheme: true
+    css: styles/site.css
+    toc: false
+    lightbox: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    anchor-sections: false

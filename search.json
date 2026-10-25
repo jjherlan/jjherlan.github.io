@@ -137,21 +137,7 @@
     "href": "code.html#research-repositories",
     "title": "Code & Data",
     "section": "Research repositories",
-    "text": "Research repositories\n\n\n\nProject\nWhat it holds\nLinks\n\n\n\n\nDeep-sea coral and sponge SDMs (NERTO 2025)\nNOAA Deep Sea Coral and Sponge work, Northeast Canyons, James J. Howard Laboratory\nGitHub\n\n\nSpatial ecology of Rapa Nui reefs\nBenthic habitat and spatial ecology analyses\nSite · GitHub\n\n\nCoral bleaching at Rapa Nui\nAnalyses of the 2015 bleaching event\nSite · GitHub\n\n\nMS research, Rapa Nui\nData and analysis from my master’s research\nSite · GitHub\n\n\nCoral and waves, American Samoa\nCoral morphology and wave dynamics\nSite · GitHub"
-  },
-  {
-    "objectID": "code.html#teaching-materials",
-    "href": "code.html#teaching-materials",
-    "title": "Code & Data",
-    "section": "Teaching materials",
-    "text": "Teaching materials\n\nSC 253 Ecology and Environmental Problems (SUNY FIT): course site"
-  },
-  {
-    "objectID": "code.html#tools-i-contribute-to",
-    "href": "code.html#tools-i-contribute-to",
-    "title": "Code & Data",
-    "section": "Tools I contribute to",
-    "text": "Tools I contribute to\nCoralNet-Toolbox: human-in-the-loop annotation and model development for benthic imagery, including YOLO-based object detection and Meta’s Segment Anything Model (SAM). GitHub"
+    "text": "Research repositories\n\n\n\nProject\nWhat it holds\nLinks\n\n\n\n\nDeep-sea coral and sponge SDMs (NERTO 2025)\nNOAA Deep Sea Coral and Sponge work, Northeast Canyons, James J. Howard Laboratory\nGitHub\n\n\nSpatial ecology of Rapa Nui reefs\nBenthic habitat and spatial ecology analyses\nSite · GitHub\n\n\nCoral bleaching at Rapa Nui\nAnalyses of the 2015 bleaching event\nSite · GitHub"
   },
   {
     "objectID": "code.html#methods-i-work-with",

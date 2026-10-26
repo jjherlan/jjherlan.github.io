@@ -9,7 +9,7 @@ project:
 
 website:
   title: "James J. Herlan"
-  description: "Marine ecologist working on how waves, flow and habitat structure shape coral reefs, deep-sea habitats and urban coastal wetlands."
+  description: "Complex Aquatic Ecosystems: how foundation-species communities organize, break apart and reassemble around extreme events."
   site-url: "https://jjherlan.github.io"   # change to your custom domain once it is set up
   favicon: images/favicon.svg
   open-graph:

@@ -28,8 +28,9 @@ h2 { margin-top: 2.6rem; padding-bottom: 0.35rem; border-bottom: 1px solid var(-
   background: linear-gradient(180deg, rgba(8,24,32,0) 25%, rgba(8,24,32,0.55) 55%, rgba(8,24,32,0.9) 100%);
 }
 .hero-text { position: relative; z-index: 1; padding: 2.2rem 2.4rem; color: #f4f1ea; max-width: 46rem; }
-.hero-text h1 { color: #fff; font-size: clamp(2.2rem, 5vw, 3.4rem); margin: 0 0 0.4rem; border: 0; }
+.hero-text h1, .hero-text .hero-name { color: #fff; font-family: "Fraunces", Georgia, serif; font-weight: 600; line-height: 1.1; letter-spacing: -0.01em; font-size: clamp(2.2rem, 5vw, 3.4rem); margin: 0 0 0.4rem; border: 0; }
 .hero-text p { font-size: 1.12rem; margin: 0; color: #e7ece9; }
+.hero-text .lab { display: block; font-family: "Fraunces", Georgia, serif; font-size: clamp(1.2rem, 2.4vw, 1.55rem); color: #bfe6e2; margin: -0.1rem 0 0.7rem; letter-spacing: 0.01em; }
 .hero-text .role { font-size: 0.95rem; letter-spacing: 0.04em; text-transform: uppercase; opacity: 0.85; margin-bottom: 0.6rem; }
 .hero-credit { position: absolute; z-index: 1; right: 0.9rem; bottom: 0.6rem; font-size: 0.72rem; color: rgba(255,255,255,0.7); }
 

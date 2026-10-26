@@ -1,15 +1,15 @@
 ---
-pagetitle: "James J. Herlan · Marine Ecologist"
-description: "Marine ecologist studying how waves, flow and habitat structure shape coral reefs, deep-sea habitats and urban coastal wetlands."
+pagetitle: "James J. Herlan · Complex Aquatic Ecosystems"
+description: "Complex Aquatic Ecosystems: how foundation-species communities organize, break apart and reassemble around extreme events."
 ---
 
 ::: {.hero style="background-image: url('images/reef-diver.jpg');" role="img" aria-label="A diver swims above a shallow coral reef with a large coral colony in the foreground."}
 ::: hero-text
-[PhD Candidate · Marine Ecology · CUNY]{.role}
+<p class="hero-name" role="heading" aria-level="1">James J. Herlan</p>
 
-# James J. Herlan
+[Complex Aquatic Ecosystems]{.lab}
 
-I study how waves, flow and habitat structure decide where corals and other foundation species live, and how they hold together after disturbance.
+How foundation-species communities organize, break apart and reassemble around extreme events.
 :::
 [Photo: Sly Lee]{.hero-credit}
 :::

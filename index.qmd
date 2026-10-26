@@ -5,9 +5,9 @@ description: "Complex Aquatic Ecosystems: how foundation-species communities org
 
 ::: {.hero style="background-image: url('images/reef-diver.jpg');" role="img" aria-label="A diver swims above a shallow coral reef with a large coral colony in the foreground."}
 ::: hero-text
-<p class="hero-name" role="heading" aria-level="1">James J. Herlan</p>
+<p class="hero-name" role="heading" aria-level="1">Complex Aquatic Ecosystems</p>
 
-[Complex Aquatic Ecosystems]{.lab}
+[James J. Herlan]{.lab}
 
 How foundation-species communities organize, break apart and reassemble around extreme events.
 :::
@@ -62,7 +62,7 @@ My goal is to bridge ecological theory and conservation practice, and to give ma
   <a class="theme-card" href="research.html#urban-coastal-restoration">
     <img src="images/saltmarsh-wind-station.jpg" alt="A wind and weather sensor station on a tripod in a salt marsh." loading="lazy">
     <div class="body"><h3>Urban coastal restoration</h3>
-    <p>Sensor networks and models of waves, water level and nitrogen at New York salt marsh and oyster restoration sites.</p></div>
+    <p>Sensor networks that measure waves, wind and water level at New York salt marsh and oyster restoration sites.</p></div>
   </a>
 </div>
 ```

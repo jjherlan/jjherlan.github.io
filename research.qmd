@@ -45,11 +45,11 @@ An earlier NERTO fellowship with NOAA NCCOS (2022) built 2D orthoprojections of 
 ::: {}
 In New York Harbor I study how very local differences in waves and water level affect the restoration of oysters (*Crassostrea virginica*) and salt marsh (*Spartina alterniflora*). With the Hudson River Park Trust, I deploy arrays of tilt current meters and water level sensors to find where wave exposure stops helping restoration targets and starts hurting them.
 
-**EcoAirML NYC** develops accessible machine learning tools that predict how atmospheric deposition affects urban coastal wetlands, starting at Jamaica Bay Wildlife Refuge. LoRaWAN sensor networks monitor wind-driven wave exposure at *Spartina* restoration sites. LSTM and LightGBM models link atmospheric nitrogen deposition to wetland biogeochemistry. The project is supported by PSC-CUNY and NSF-ESIP, with the Jamaica Bay-Rockaway Parks Conservancy and the National Park Service as partners.
+**EcoAirML NYC** aims to build accessible machine learning tools that predict how atmospheric deposition affects urban coastal wetlands, starting at Jamaica Bay Wildlife Refuge. LoRaWAN sensor networks now monitor wind-driven wave exposure at *Spartina* restoration sites. In the next phase, LSTM and LightGBM models will link atmospheric nitrogen deposition to wetland biogeochemistry. The project is supported by PSC-CUNY and NSF-ESIP, with the Jamaica Bay-Rockaway Parks Conservancy and the National Park Service as partners.
 
 Since August 2026, as a Research Associate with the North Atlantic Coast CESU, I've been building a process model of marsh loss at Horseshoe Cove (Sandy Hook) to inform management actions.
 
-[Sensor networks]{.tag} [LSTM / LightGBM]{.tag} [Salt marsh]{.tag} [Oyster restoration]{.tag}
+[Sensor networks]{.tag} [Wave exposure]{.tag} [Salt marsh]{.tag} [Oyster restoration]{.tag}
 :::
 ::: {}
 ![Wind sensor station at a salt marsh restoration site.](images/saltmarsh-wind-station.jpg){fig-alt="A wind and weather sensor station on a tripod in a salt marsh under a blue sky."}

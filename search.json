@@ -88,7 +88,7 @@
     "href": "index.html",
     "title": "James J. Herlan",
     "section": "",
-    "text": "James J. Herlan\n\nComplex Aquatic Ecosystems\nHow foundation-species communities organize, break apart and reassemble around extreme events.\n\nPhoto: Sly Lee"
+    "text": "Complex Aquatic Ecosystems\n\nJames J. Herlan\nHow foundation-species communities organize, break apart and reassemble around extreme events.\n\nPhoto: Sly Lee"
   },
   {
     "objectID": "index.html#about",
@@ -102,7 +102,7 @@
     "href": "index.html#research-themes",
     "title": "James J. Herlan",
     "section": "Research themes",
-    "text": "Research themes\n\n  \n    \n    Reef assembly at Rapa Nui\n    How wave exposure and habitat structure filter which corals live where, read from 3D reef models and spatial point patterns.\n  \n  \n    \n    Seafloor habitat at shelf scale\n    Ensemble species distribution models for deep-sea corals and sponges on the Northeast U.S. continental margin.\n  \n  \n    \n    Urban coastal restoration\n    Sensor networks and models of waves, water level and nitrogen at New York salt marsh and oyster restoration sites."
+    "text": "Research themes\n\n  \n    \n    Reef assembly at Rapa Nui\n    How wave exposure and habitat structure filter which corals live where, read from 3D reef models and spatial point patterns.\n  \n  \n    \n    Seafloor habitat at shelf scale\n    Ensemble species distribution models for deep-sea corals and sponges on the Northeast U.S. continental margin.\n  \n  \n    \n    Urban coastal restoration\n    Sensor networks that measure waves, wind and water level at New York salt marsh and oyster restoration sites."
   },
   {
     "objectID": "index.html#recent-news",
@@ -200,7 +200,7 @@
     "href": "research.html#urban-coastal-restoration",
     "title": "Research",
     "section": "Urban coastal restoration",
-    "text": "Urban coastal restoration\n\n\nIn New York Harbor I study how very local differences in waves and water level affect the restoration of oysters (Crassostrea virginica) and salt marsh (Spartina alterniflora). With the Hudson River Park Trust, I deploy arrays of tilt current meters and water level sensors to find where wave exposure stops helping restoration targets and starts hurting them.\nEcoAirML NYC develops accessible machine learning tools that predict how atmospheric deposition affects urban coastal wetlands, starting at Jamaica Bay Wildlife Refuge. LoRaWAN sensor networks monitor wind-driven wave exposure at Spartina restoration sites. LSTM and LightGBM models link atmospheric nitrogen deposition to wetland biogeochemistry. The project is supported by PSC-CUNY and NSF-ESIP, with the Jamaica Bay-Rockaway Parks Conservancy and the National Park Service as partners.\nSince August 2026, as a Research Associate with the North Atlantic Coast CESU, I’ve been building a process model of marsh loss at Horseshoe Cove (Sandy Hook) to inform management actions.\nSensor networks LSTM / LightGBM Salt marsh Oyster restoration\n\n\n\n\n\nWind sensor station at a salt marsh restoration site."
+    "text": "Urban coastal restoration\n\n\nIn New York Harbor I study how very local differences in waves and water level affect the restoration of oysters (Crassostrea virginica) and salt marsh (Spartina alterniflora). With the Hudson River Park Trust, I deploy arrays of tilt current meters and water level sensors to find where wave exposure stops helping restoration targets and starts hurting them.\nEcoAirML NYC aims to build accessible machine learning tools that predict how atmospheric deposition affects urban coastal wetlands, starting at Jamaica Bay Wildlife Refuge. LoRaWAN sensor networks now monitor wind-driven wave exposure at Spartina restoration sites. In the next phase, LSTM and LightGBM models will link atmospheric nitrogen deposition to wetland biogeochemistry. The project is supported by PSC-CUNY and NSF-ESIP, with the Jamaica Bay-Rockaway Parks Conservancy and the National Park Service as partners.\nSince August 2026, as a Research Associate with the North Atlantic Coast CESU, I’ve been building a process model of marsh loss at Horseshoe Cove (Sandy Hook) to inform management actions.\nSensor networks Wave exposure Salt marsh Oyster restoration\n\n\n\n\n\nWind sensor station at a salt marsh restoration site."
   },
   {
     "objectID": "research.html#where-this-is-going",
